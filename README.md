@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Aashritha
-- 👀 I’m interested in making machines learn and making fun websites 
-- 🌱 I’m currently learning ...alot things
-       - java, c, python, html, css, javascript, react 
-- 📫 Feel free to reach out on my email @s.aashritha14@gmail.com
-- 😄 Pronouns: she/her
+# Hi, I’m Aashritha 🧸
+
+🎓 CS Undergrad | 💻 Open Source Contributor
+
+## 🔧 Tech Stack
+- Python, C, Java, SQL  
+- Frontend: HTML, CSS, JS  
+- Learning: how to make machines learn
+
+
+## 🏎️ Fun Fact
+If I’m not coding, I’m probably watching an F1 race 
 
 
 <!---
