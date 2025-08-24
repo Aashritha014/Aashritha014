@@ -8,7 +8,7 @@
 - Learning: how to make machines learn
 
 
-###🏎️ Fun Fact
+### 🏎️ Fun Fact
 If I’m not coding, I’m probably watching an F1 race 
 
 
