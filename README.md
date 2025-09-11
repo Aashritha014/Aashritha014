@@ -1,6 +1,6 @@
 <h1><samp>Hi, I’m Aashritha 🧸</samp></h1>
 
-<p><samp>🎓 CS Undergrad | 💻 Open Source Contributor | 🧸 Amatuer Coder </samp></p>
+<p><samp>🎓 CS Undergrad | 💻 Open Source Contributor |  </samp></p>
 
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
@@ -14,5 +14,3 @@
   </a>
 </p>
 
-<h3><samp>🏎️ Fun Fact</samp></h3>
-<p><samp>If I’m not coding, I’m probably watching an F1 race</samp></p>
